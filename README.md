@@ -10,7 +10,7 @@
   
   ![image](https://user-images.githubusercontent.com/100812515/169736279-d6937578-12dd-44e8-b51c-eb7a2d68208a.png)
 
-  Users can enter a data, country, city, state and/or shape to filter out desired results.
+  Users can enter a date, country, city, state and/or shape to filter out desired results.
  
 ## Summary
   One drawback of this new design would be the fact that the search is case sensitive. If a user uses capital letters, they will not get any results. 
